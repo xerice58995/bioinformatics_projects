@@ -39,7 +39,7 @@ Use mouse to draw ROI (RectangleSelector)
 Average pixel intensity of selected region
 
 ## Screenshots
-![分析圖](images/截圖 2025-05-05 下午7.20.29.png)
+![分析圖](images/截圖%202025-05-05%20下午7.20.29.png)
 
 ## How to use?
 
