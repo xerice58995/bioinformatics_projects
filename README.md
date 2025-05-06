@@ -19,3 +19,13 @@ These projects were created for an focused exploration into different skillsets 
 - Bioinformatics scripting (FASTA, DICOM)
 - Web backend development with Flask
 
+## Tools used in projects
+- Python
+- pandas, matplotlib
+- pydicom 
+- Biopython 
+- Tkinter
+
+##  How to Explore
+
+please click topic links in this repo and navigate into each topic’s folder!
