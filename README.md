@@ -21,7 +21,9 @@ I use [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima
 
 ## Screenshots
 ![分析圖](images/截圖%202025-05-06%20下午11.01.22.png)
-
+![分析圖](images/截圖%202025-05-06%20下午11.01.29.png)
+![分析圖](images/截圖%202025-05-06%20下午11.01.39.png)
+![分析圖](images/截圖%202025-05-06%20下午11.01.44.png)
 
 ## How to use?
 
